@@ -21,8 +21,7 @@ git clone https://github.com/SoyTiyi/WeatherApp.git
 ```sh
 $ cd WeatherApp
  ```
-Compilaremos los proyectos taller-cinco y load-balancer con el siguiente comando, debemos de entrar a la carpeta de cada uno
-
+Compilaremos el proyecto
  ```sh
 $ mvn package
  ```
